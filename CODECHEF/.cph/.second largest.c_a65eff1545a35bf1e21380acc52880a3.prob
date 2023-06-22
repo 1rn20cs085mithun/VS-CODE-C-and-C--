@@ -1,0 +1,1 @@
+{"name":"Local: second largest","url":"c:\\VS CODE C and C++\\CODECHEF\\second largest.c","tests":[{"id":1641560348214,"input":"3 \n120 11 400\n10213 312 10\n10 3 450\n","output":"120\n312\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\second largest.c","group":"local","local":true}

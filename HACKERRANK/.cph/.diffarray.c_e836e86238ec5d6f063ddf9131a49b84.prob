@@ -1,0 +1,1 @@
+{"name":"Local: diffarray","url":"c:\\VS CODE C and C++\\HACKERRANK\\diffarray.c","tests":[{"id":1649141814640,"input":"11\n6\n14 23 17 20 21 17\n8\n6\n14 16 21 23 24 19\n4\n8\n16 17 21 13 17 22 14 14","output":"3\n6\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\HACKERRANK\\diffarray.c","group":"local","local":true}

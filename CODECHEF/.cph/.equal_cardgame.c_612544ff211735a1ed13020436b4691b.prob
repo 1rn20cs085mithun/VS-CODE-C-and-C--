@@ -1,0 +1,1 @@
+{"name":"Local: equal_cardgame","url":"c:\\VS CODE C and C++\\CODECHEF\\equal_cardgame.c","tests":[{"id":1642605527641,"input":"4\n3\n50\n2\n14","output":"1\n2\n0\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\equal_cardgame.c","group":"local","local":true}

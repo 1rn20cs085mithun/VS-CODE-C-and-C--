@@ -1,0 +1,1 @@
+{"name":"Local: ATM","url":"c:\\VS CODE C and C++\\CODECHEF\\ATM.c","tests":[{"id":1641877164092,"input":"30 120.00","output":"89.50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\ATM.c","group":"local","local":true}

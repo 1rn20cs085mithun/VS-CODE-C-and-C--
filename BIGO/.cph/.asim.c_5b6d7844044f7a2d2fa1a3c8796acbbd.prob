@@ -1,0 +1,1 @@
+{"name":"Local: asim","url":"c:\\VS CODE C and C++\\BIGO\\asim.c","tests":[{"id":1654855377368,"input":"3\n2\n3\n4","output":"1\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\BIGO\\asim.c","group":"local","local":true}

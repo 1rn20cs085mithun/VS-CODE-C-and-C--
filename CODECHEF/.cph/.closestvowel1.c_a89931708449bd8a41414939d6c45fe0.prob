@@ -1,0 +1,1 @@
+{"name":"Local: closestvowel1","url":"c:\\VS CODE C and C++\\CODECHEF\\closestvowel1.c","tests":[{"id":1652891080847,"input":"4\n5\naeiou\n5\nabcde\n8\nstarters\n8\ncodechef","output":"1\n2\n4\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\closestvowel1.c","group":"local","local":true}

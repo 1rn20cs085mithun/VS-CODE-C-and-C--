@@ -1,0 +1,1 @@
+{"name":"Local: Lappindromes","url":"c:\\VS CODE C and C++\\CODECHEF\\Lappindromes.c","tests":[{"id":1641993412431,"input":"6\ngaga\nabcde\nrotor\nxyzxy\nabbaab\nababc","output":"YES\nNO\nYES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\Lappindromes.c","group":"local","local":true}

@@ -1,0 +1,9 @@
+body{
+    font-family: 'Manrope';
+}
+
+#intro{
+    background-color: bisque;
+    color :aqua;
+    border: 10px black solid;
+}

@@ -1,0 +1,1 @@
+{"name":"Local: KEPLERS LAW JANLC","url":"c:\\VS CODE C and C++\\CODECHEF\\KEPLERS LAW JANLC.c","tests":[{"id":1641742241786,"input":"3\n1 1 1 1\n1 2 3 4\n1 8 2 8\n","output":"Yes\nNo\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\KEPLERS LAW JANLC.c","group":"local","local":true}

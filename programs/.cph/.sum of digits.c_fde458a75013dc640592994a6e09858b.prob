@@ -1,0 +1,1 @@
+{"name":"Local: sum of digits","url":"c:\\VS CODE C and C++\\programs\\sum of digits.c","tests":[{"id":1639326245019,"input":"3 \n12345\n31203\n2123","output":"15\n9\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\programs\\sum of digits.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PRIME IN BINARY","url":"c:\\VS CODE C and C++\\CODECHEF\\PRIME IN BINARY.c","tests":[{"id":1641748175248,"input":"3\n1\n111\n101101","output":"No\nYes\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\CODECHEF\\PRIME IN BINARY.c","group":"local","local":true}

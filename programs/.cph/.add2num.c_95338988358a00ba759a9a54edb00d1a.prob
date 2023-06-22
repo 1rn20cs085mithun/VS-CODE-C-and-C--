@@ -1,0 +1,1 @@
+{"name":"Local: add2num","url":"c:\\VS CODE C and C++\\programs\\add2num.c","tests":[{"id":1639150604296,"input":"3\n1 2\n100 200\n10 40","output":"3\n300\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VS CODE C and C++\\programs\\add2num.c","group":"local","local":true}

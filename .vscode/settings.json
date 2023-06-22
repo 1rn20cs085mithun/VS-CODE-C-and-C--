@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "ASCII.C": "cpp",
+        "cmath": "c",
+        "PRIME IN BINARY JANLC.C": "cpp",
+        "closestvowel.C": "cpp",
+        "HELLOWORLD.C": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "new_app",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}
